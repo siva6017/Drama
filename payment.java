@@ -3,4 +3,5 @@ cvv
 expiry
 amount
 pay
+otp
 submit
